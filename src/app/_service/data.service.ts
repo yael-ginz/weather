@@ -11,7 +11,7 @@ export class DataService {
   private currentConditionPath = this.basePath + 'currentconditions/v1/';
   private dailyForecastsPath = this.basePath + 'forecasts/v1/daily/5day/';
 
-  private apikey = '?apikey=XByNR7G7Ku0qP4U5SZALgvuoXGqCVvch';
+  private apikey = '?apikey=Gdqwp4AnHwjcGOt4HduLt8Yo7DdVAwiD';
 
   constructor(
     private http: HttpClient,
